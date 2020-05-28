@@ -11,7 +11,7 @@ The generated density maps are shown in the following GIF pictures: ( "+RSS" mea
 ![image](./figures/resulting_density_map.gif)
 &emsp;&emsp;&emsp;
 **first column:** input image &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-**second column:** ground truth &emsp;&emsp;&emsp;&emsp;
+**second column:** ground truth &emsp;&emsp;&emsp;
 **third column:** estimated density map
 
 To see our UAV-GCC datatset, please click [here](https://drive.google.com/file/d/15M4ilkA_3S9T98iWsXi2MxSfM2KsoboQ/view?usp=sharing).
