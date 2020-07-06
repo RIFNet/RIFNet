@@ -16,7 +16,7 @@ The generated density maps are shown in the following GIF pictures: ( "+RSS" mea
 ---
 <div align="center">
     <b>1st column</b>: input image &emsp; &emsp; &emsp; 
-    <b>2nd column</b>: ground truth &emsp; &emsp; &emsp; 
+    <b>2nd column</b>: ground truth &emsp; &emsp;
     <b>3rd column</b>: estimated density map 
 </div>
 
