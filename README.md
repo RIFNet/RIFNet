@@ -20,6 +20,8 @@ The generated density maps are shown in the following GIF pictures: ( "+RSS" mea
     <b>3rd col</b>: estimated density map 
 </div>
 
+<br/>
+
 To see our UAV-GCC datatset, please click [here](https://drive.google.com/file/d/15M4ilkA_3S9T98iWsXi2MxSfM2KsoboQ/view?usp=sharing).
 
 To see the training data of CycleGAN which is used to tranlate synthetic images, please click [here](https://drive.google.com/file/d/1un6KhXe66W3AXHY1d5HQoQCLNpiCcX4c/view?usp=sharing).
